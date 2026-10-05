@@ -31,7 +31,7 @@
 <h2>⚙️ About Me</h2>
 
 <p>
-I'm an <b>Automation & Computer Control Engineering student</b>
+I'm an <b>Automation & Computer Control Engineer</b>
 passionate about designing and building intelligent machines
 and real-world automation systems.
 </p>
